@@ -1,0 +1,4 @@
+Exam Objectives
+
+Create Arrays, List, Set, Map and Deque collections. and add, remove, update, retrieve and sort their elements.
+
