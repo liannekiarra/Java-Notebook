@@ -42,7 +42,7 @@ class InstantiatingArrays{
   }
 }
 
-public class question{
+class question{
     public static void main(String[] args){
 
         int[] firstTen = {1,2,3,4,5,6,7,8,9,10};
@@ -58,4 +58,17 @@ public class question{
 
     }
 }
+
+class newExample{
+  public static void main(String[] args){
+    int[] newArray;
+    newArray = new int[] {1,2,3,4,5};
+    for (int i = 0; i<newArray.length; i++){
+      System.out.println(newArray[i] + " ");}
+  }
+
+  
+
+
+  
 
