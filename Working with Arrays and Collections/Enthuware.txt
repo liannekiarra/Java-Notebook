@@ -1,0 +1,12 @@
+Enthuware contains reosources to prepare for java exams
+In this case the Java OCP Exam SE 21
+It is a professional certification
+
+
+Enthuware software has Objective Wise Tests
+
+Files found that wooul closely relate to Arrays and Collections are 
+
+- Arrays
+
+- Collections API
