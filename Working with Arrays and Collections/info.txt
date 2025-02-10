@@ -1,0 +1,7 @@
+Working with arrays and collections referes to maniulating and managing froups of data
+within a programming language. Where an array is a fixed-size, ordered collection fo elements, while a 
+collection is more flexible data structure that can hold various types of elements and 
+often provides built-in methods for adding, removing, searching and sorting data.
+
+
+
