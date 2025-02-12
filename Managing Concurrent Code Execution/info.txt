@@ -1,0 +1,15 @@
+Managing Concurrent Code Execution
+
+- involves using synchronization mechanisms like mutexes, semaphores and condition variables to ensure that multiple
+threads accessing shared data do so safely, oreventing race conditions nad data inconsistencies, while carefully 
+coordinating their actions to avoid deadlocks and optimize performance. This typically includes techniques like minimizing lock scope,
+using thread pools, and carefully designing critical sections of code that require exclusive access to shared resources.
+
+- create both platform and virtual threads
+- use both runnable and callable objects
+- manage thread life cycle
+- use different executor services and concurrent API to run tasks
+- develop thread safe code using locking mechanism and concurrent API
+- Process java collections concurrently and utilize parallel streams
+
+
